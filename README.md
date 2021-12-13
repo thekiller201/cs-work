@@ -1,2 +1,2 @@
 # cs-work
-Medeuim-Work Reflection:
+Medium-Work Reflection:
